@@ -1,4 +1,6 @@
 # miniproject2
+Manage user data with CRUD functions
+
 1 - Import the file "usuarios.csv" into your MySQL database.
 2 - Correct the script "conexaobd.php" by putting your connection credentials.
 
