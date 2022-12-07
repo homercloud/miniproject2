@@ -1,5 +1,5 @@
 # miniproject2
-Manage user data with CRUD functions
+Manage user data with a basic login system
 
 INSTRUCTIONS
 1 - Import the file "usuarios.csv" into your MySQL database.
