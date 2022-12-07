@@ -1,2 +1,2 @@
 <?php
-$conexao = mysqli_connect('localhost','user','password','dbname') or die(mysqli_error());
+$conexao = mysqli_connect('hostname','user','password','dbname') or die(mysqli_error());
