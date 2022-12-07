@@ -1,9 +1,9 @@
 # miniproject2
 Manage user data with a basic login system
 
-INSTRUCTIONS
+INSTRUCTIONS UPON DOWNLOADING THIS REPOSITORY
 1 - Import the file "usuarios.csv" into your MySQL database.
-2 - Set the script "conexaobd.php" to your connection credentials.
+2 - Edit the script "conexaobd.php" with your connection credentials.
 
 NOTICE
 No CSS.
